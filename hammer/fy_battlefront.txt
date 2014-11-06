@@ -1,6 +1,3 @@
-fy_battlefront
-==============
-
 fy_battlefront (max. 16 vs 16)
 
 by Razor (design, mapping and texturing)
